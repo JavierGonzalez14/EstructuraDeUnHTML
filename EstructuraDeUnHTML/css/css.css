@@ -1,0 +1,18 @@
+@charset "UTF-8"; /*Estandar para caracteres especiales*/
+/*CSS Design*/
+.menu{      /*Definiendo clase*/
+     background-color: #dedede;
+}
+.logo{
+  color:#4d4d4d;
+}
+.logo2{
+  color:#7c7c7c;
+}
+.logo3{
+   color:#1f62ae;
+   font-weight: bold;
+}
+.logo4{
+   background-color: #539f44;
+}
